@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 <h1 align="center">Hi 👋, I'm Harshitha</h1>
-<h3 align="center">A passionate web developer from India</h3>
+<h3 align="center">A Passionate web developer from India</h3>
 
 # 💫 About Me:
 - 💻 I have a keen interest in full-stack web development, where I can work on both the front-end (HTML, CSS, JavaScript) and the back-end (Django, Python).<br>- 🌐 Building responsive and user-friendly web applications is my goal, and I enjoy exploring the latest web technologies and design trends.<br>- 📚 I'm a continuous learner and enjoy keeping up with the ever-evolving field of web development.<br><br>## Current Focus<br><br>🌟 Right now, I'm focusing on learning Django, as it's a fantastic framework for building robust and scalable web applications. I believe that mastering Django will open up exciting opportunities for me to create innovative projects.<br><br>## Get in Touch<br><br>I'm always open to connecting with fellow developers, sharing knowledge, and collaborating on exciting web development projects. Feel free to reach out to me:<br><br>- LinkedIn: https://www.linkedin.com/in/harshitha-kotian<br>- Email: harshithap897@gmail.com
